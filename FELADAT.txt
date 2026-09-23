@@ -1,0 +1,4 @@
+FELADAT:
+A kezdőoldalra egy linket kell tenned (mondjuk Rólunk megnevezéssel) és, ha erre klikkelek, akkor
+nyisson meg egy másik template-et (mondjuk egy about.html fájlt) amiben a rólunk szövegek jelennek meg.
+
