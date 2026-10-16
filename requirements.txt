@@ -1,0 +1,2 @@
+# Requirements for testing_project
+Django>=4.2,<5
